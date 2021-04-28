@@ -1,0 +1,44 @@
+.linkbco
+{
+    COLOR: #ffffff;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: none
+}
+.linkbco:hover
+{
+    COLOR: #a52140
+}
+
+.linkpto
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: none
+}
+.linkpto:hover
+{
+    COLOR: #a52140
+}
+
+.linktit
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: none
+}
+.linktit:hover
+{
+    COLOR: #a52140
+}
