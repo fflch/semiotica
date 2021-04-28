@@ -5,361 +5,361 @@
   xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.84
                       http://www.google.com/schemas/sitemap/0.84/sitemap.xsd">
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/</loc>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/index.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/index.htm</loc>
     <lastmod>2007-06-11</lastmod>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/abre_esse3.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/abre_esse3.htm</loc>
     <lastmod>2007-06-10</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/oe_esse.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/oe_esse.htm</loc>
     <lastmod>2007-06-04</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/num_ant.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/num_ant.htm</loc>
     <lastmod>2007-06-04</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse-busca.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse-busca.htm</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/busca/busca_ga-cinema.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/busca/busca_ga-cinema.htm</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2.r.b.varela.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2.r.b.varela.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/busca/busca_ga-corporativo.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/busca/busca_ga-corporativo.htm</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/2007-esse3.c.men.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/2007-esse3.c.men.pdf</loc>
     <lastmod>2007-05-31</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-c.s.ribeiro.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-c.s.ribeiro.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/busca/busca_ga-jornal.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/busca/busca_ga-jornal.htm</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-m.l.v.p.diniz.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-m.l.v.p.diniz.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.2</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-j.e.schiavoni.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-j.e.schiavoni.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/busca/busca_ga-juridico.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/busca/busca_ga-juridico.htm</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse1/2005-esse1-w.r.magri.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse1/2005-esse1-w.r.magri.pdf</loc>
     <lastmod>2007-05-31</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/2007-esse3.m.h.c.pistori.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/2007-esse3.m.h.c.pistori.pdf</loc>
     <lastmod>2007-05-31</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-s.g.suiama.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-s.g.suiama.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/busca/busca_ga-religioso.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/busca/busca_ga-religioso.htm</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/2007-esse3.s.m.r.silva.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/2007-esse3.s.m.r.silva.pdf</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-s.m.r.silva.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-s.m.r.silva.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/busca/busca_ga-ethos.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/busca/busca_ga-ethos.htm</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse1/2005-esse1-d.f.cruz.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse1/2005-esse1-d.f.cruz.pdf</loc>
     <lastmod>2007-05-31</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-f. e. mercon.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-f. e. mercon.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-c.m.s.ramos.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-c.m.s.ramos.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/busca/busca_ga-hq.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/busca/busca_ga-hq.htm</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/2007-esse3.b.m.baeder.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/2007-esse3.b.m.baeder.pdf</loc>
     <lastmod>2007-05-31</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-t.c.leoni-t.l.brandao.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-t.c.leoni-t.l.brandao.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/2007-esse3.m.tapia.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/2007-esse3.m.tapia.pdf</loc>
     <lastmod>2007-06-03</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-a.m.wanderley.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-a.m.wanderley.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/busca/busca_ga-poesia.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/busca/busca_ga-poesia.htm</loc>
     <lastmod>2007-06-10</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/2007-esse3.d.c.almeida.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/2007-esse3.d.c.almeida.pdf</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-j.borges-l.r.barros.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-j.borges-l.r.barros.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.2</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-f.g.b.s.alonso-p.a.silva.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-f.g.b.s.alonso-p.a.silva.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.2</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/2007-esse3.d.l.candeias.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/2007-esse3.d.l.candeias.pdf</loc>
     <lastmod>2007-06-10</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-s.r.l.castro.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-s.r.l.castro.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-j.f.lucenajunior.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-j.f.lucenajunior.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/2007-esse3.f.f.m.nogueira.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/2007-esse3.f.f.m.nogueira.pdf</loc>
     <lastmod>2007-06-03</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-l.nunes-r.f.souza.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-l.nunes-r.f.souza.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-a.v.pietroforte.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-a.v.pietroforte.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse1/2005-esse1-j.difiori.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse1/2005-esse1-j.difiori.pdf</loc>
     <lastmod>2007-05-31</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/2007-esse3.b.p.zerbinatti.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/2007-esse3.b.p.zerbinatti.pdf</loc>
     <lastmod>2007-06-03</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/busca/busca_ga-prosa.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/busca/busca_ga-prosa.htm</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/2007-esse3.i.g.cascelli.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/2007-esse3.i.g.cascelli.pdf</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-d.f.cruz.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-d.f.cruz.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/2007-esse3.d.f.cruz.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/2007-esse3.d.f.cruz.pdf</loc>
     <lastmod>2007-06-03</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/2007-esse3-d.c.serpa.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/2007-esse3-d.c.serpa.pdf</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/busca/busca_ga-musica.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/busca/busca_ga-musica.htm</loc>
     <lastmod>2007-06-11</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-d.l.candeias.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-d.l.candeias.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-p.dietrich.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-p.dietrich.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/2007-esse3-d.c.leite.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/2007-esse3-d.c.leite.pdf</loc>
     <lastmod>2007-05-31</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/busca/busca_ga-pintura.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/busca/busca_ga-pintura.htm</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/busca/busca_ga-audiovisual.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/busca/busca_ga-audiovisual.htm</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/2007-esse3-e.s.a.antunes.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/2007-esse3-e.s.a.antunes.pdf</loc>
     <lastmod>2007-05-31</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/busca/busca_ga-leitura.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/busca/busca_ga-leitura.htm</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2.l.o.neris.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2.l.o.neris.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse1/2005-esse1-a.c.c.noronha-taddei.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse1/2005-esse1-a.c.c.noronha-taddei.pdf</loc>
     <lastmod>2007-05-31</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-f.m.silva.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-f.m.silva.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/busca/busca_ga-visual.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/busca/busca_ga-visual.htm</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse1/2005-esse1-a.r.a.tenuta.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse1/2005-esse1-a.r.a.tenuta.pdf</loc>
     <lastmod>2007-05-31</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse1/2005-esse1-r.t.oliveira.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse1/2005-esse1-r.t.oliveira.pdf</loc>
     <lastmod>2007-05-31</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/busca/busca_ga-teatro.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/busca/busca_ga-teatro.htm</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/2006-esse2-j.m.fernandes.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/2006-esse2-j.m.fernandes.pdf</loc>
     <lastmod>2007-06-01</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/2007-esse3.d.marsicano.pdf</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/2007-esse3.d.marsicano.pdf</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/abre_esse2.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/abre_esse2.htm</loc>
     <lastmod>2007-06-08</lastmod>
     <priority>0.2</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/esse2_exped.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/esse2_exped.htm</loc>
     <lastmod>2007-06-04</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse2/esse2_apres.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse2/esse2_apres.htm</loc>
     <lastmod>2007-06-03</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse1/abre_esse1.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse1/abre_esse1.htm</loc>
     <lastmod>2007-06-08</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse1/esse1_exped.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse1/esse1_exped.htm</loc>
     <lastmod>2007-06-04</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse1/esse1_apres.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse1/esse1_apres.htm</loc>
     <lastmod>2007-06-03</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/esse3_exped.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/esse3_exped.htm</loc>
     <lastmod>2007-06-10</lastmod>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://www.fflch.usp.br/dl/semiotica/es/esse3/esse3_apres.htm</loc>
+    <loc>https://projetos.fflch.usp.br/semiotica/es/esse3/esse3_apres.htm</loc>
     <lastmod>2007-06-09</lastmod>
     <priority>0.1</priority>
   </url>
